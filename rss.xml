@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[blimey]]></title>
         <description><![CDATA[blimey]]></description>
-        <link>https://thegrid.ai/blimey/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 03:16:45 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/blimey/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[This is a test page]]></title>
-            <description><![CDATA[<article><h1>This is a test page</h1><p>This is body text to test the website</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/394eb4321f137ff54dbfd1261d8742ef4a59aa67.jpg"></article>]]></description>
-            <link>https://thegrid.ai/blimey/this-is-a-test-page/index.html</link>
-            <guid isPermaLink="false">bc425e18-c5d7-41ca-8077-07975a27436d</guid>
-            <pubDate>Wed, 16 Dec 2015 03:15:41 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 16 Dec 2015 03:15:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/blimey/getting-started-on-the-grid/index.html</link>
+            <link>undefinedgetting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">346a2894-efd1-4b63-b936-bbb8c8bc7bb9</guid>
             <pubDate>Wed, 16 Dec 2015 03:15:41 GMT</pubDate>
         </item>
