@@ -2,6 +2,7 @@ name: blimey
 favicon: null
 layout_spectrum: 0.6141502952668816
 typography_spectrum: 0.12811673036776483
+title: Test
 cta:
   domain: null
   bucket: null
